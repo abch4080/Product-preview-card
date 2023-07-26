@@ -149,7 +149,7 @@ margin-bottom: 1rem;
     }
 
     #left-side img{
-        content: url('/images/image-product-mobile.jpg');
+        content: url('./images/image-product-mobile.jpg');
         border-bottom-left-radius: 0px;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
